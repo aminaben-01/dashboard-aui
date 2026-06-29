@@ -9,7 +9,7 @@ import dashboard_back.entities.wf;
 import dashboard_back.repositories.wfRepository;
 
 @Service
-public class wfService {
+public class WfService {
     @Autowired
     private wfRepository wfRepository;
 
